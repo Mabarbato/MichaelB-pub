@@ -1,2 +1,2 @@
-# MichaelB-pub
+# michaelb-pub
 Public for CIT-82
